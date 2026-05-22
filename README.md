@@ -23,6 +23,8 @@ This is an overview of the projectstructure:
 
 For the countries geometry download the ADM0(countrie) shapefile from the following website https://www.geoboundaries.org/globalDownloads.html
 
+Get you're personal API_key here: https://firms.modaps.eosdis.nasa.gov/api/map_key/
+
 Put the downloaded folder in your data folder and dont change the name
 
 ##activate the environment
